@@ -14,3 +14,26 @@ a {
 * {
   box-sizing: border-box;
 }
+
+img {
+  width: 20%;
+}
+
+input, select{
+  border: 0;
+  border-bottom: 2px solid grey ;
+}
+
+label{
+  margin: 1rem 0.2rem;
+  
+}
+
+table{
+  border: 1px solid black;
+  margin: 0;
+}
+
+td{
+  border-bottom: 1px solid grey;
+}
